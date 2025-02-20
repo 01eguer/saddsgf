@@ -29,6 +29,19 @@ int main() {
     printf("The sum of %d and %d is %d\n", num1, num2, sum);
 
 
+    // funcio experimental balallvalbabalb
+    //
+    //
+    // as[pdkasod 
+    // asd'
+    // kas 'asd 
+    // asd
+    // ';kas'd
+    //  kas'
+    //
+    //
+    //
+
     // Display the result
 
     return 0;
